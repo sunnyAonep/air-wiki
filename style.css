@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(228, 192, 148)
+
+}
+.title12{
+    font-family: sans-serif;
+    color: rgb(16, 110, 79);
+}
+table {
+    border-collapse: collapse;
+    width: 1000px;
+  }
+  
+  th, td {
+    border: 10px solid rgb(16, 110, 79);
+    padding: 8px;
+  }
